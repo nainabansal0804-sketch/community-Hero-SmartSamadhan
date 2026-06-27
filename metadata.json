@@ -1,0 +1,6 @@
+{
+  "name": "SmartSamadhan",
+  "description": "AI-powered civic issue reporting platform where citizens can report issues like potholes or broken lights, and Gemini AI classifies the issue, predicts resolution times, and drafts complaint letters.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
