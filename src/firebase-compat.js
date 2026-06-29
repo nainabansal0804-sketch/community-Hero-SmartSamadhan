@@ -1,4 +1,4 @@
-import { initializeApp as realInitializeApp } from "@firebase/app";
+ import { initializeApp as realInitializeApp } from "@firebase/app";
 import { 
   getAuth as realGetAuth, 
   GoogleAuthProvider as realGoogleAuthProvider,
